@@ -1,0 +1,2 @@
+# MatLab-Mobile-Fitness-Tracker
+ This repository contains the implementation of a mobile fitness tracker project using MatLab and the Classification Learner App. The project integrates Machine Learning (ML) techniques to classify user activities based on accelerometer data. This project was developed as part of a workshop conducted by MathWorks in coordination with SASTRA University, covering comprehensive aspects of MatLab, ML, and DL.
